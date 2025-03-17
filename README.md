@@ -24,7 +24,7 @@ El objetivo de este proyecto es proporcionar a los visitantes una forma sencilla
 
 Puedes ver una demostración en vivo de la página aquí:
 
-[Ver Cafetería Almería en Vivo](https://www.tu-cafeteria-almeria.com)
+[Ver Cafetería Almería en Vivo](https://juliansantanatoglia.github.io/cafeteriaalmeria/)
 
 ## 🧑‍💻 Cómo Ejecutar el Proyecto
 
